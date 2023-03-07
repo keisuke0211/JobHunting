@@ -1,0 +1,71 @@
+#========================================
+#
+# モデル（置物）データ情報
+# Author: 大殿 慶輔
+#
+#========================================
+#1個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	POS	-260 0 230
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#2個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	1
+	POS	-210 0 230
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#3個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_C_Ornament.x
+	FIGURE_TYPE	2
+	POS	-160 0 230
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#4個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Item_Hammer.x
+	FIGURE_TYPE	3
+	POS	255 25 200
+	ROT 0 0 45
+TYPE_END
+#=======================================#
+#5個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Luna.x
+	FIGURE_TYPE	4
+	POS	255 0 230
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#6個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Heart.x
+	FIGURE_TYPE	5
+	POS	180 25 230
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#7個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	6
+	POS	3200 50 1750
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+
+END

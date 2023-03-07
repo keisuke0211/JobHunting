@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\地形 &amp; メッシュフィールド">
+      <UniqueIdentifier>{268e120a-e3dc-4618-a6ff-76e2c8c75f71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\初期データ">
+      <UniqueIdentifier>{a88e7bdb-12af-48c1-8997-2c02120757fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\地形 &amp; メッシュフィールド">
+      <UniqueIdentifier>{ab627ef3-55ba-4964-9626-00e9a7bcab57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\モデル">
+      <UniqueIdentifier>{4b638596-ec05-48a5-834d-8802c77f9c7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\初期データ">
+      <UniqueIdentifier>{88a094cc-3320-42a0-9d0a-cdcf17285a66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\モデル">
+      <UniqueIdentifier>{d633b36a-812d-49d1-be02-7298cf0da1a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\演出">
+      <UniqueIdentifier>{b3644643-4c24-44fe-966b-65ea62089b32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\演出">
+      <UniqueIdentifier>{596f2848-3292-4b23-ab03-5a732b82f05c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\ライト">
+      <UniqueIdentifier>{4a264711-d7ac-49c0-a2d6-9a37057e8935}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\ライト">
+      <UniqueIdentifier>{2ff25a83-0299-4682-98aa-d03821cf621e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\モード">
+      <UniqueIdentifier>{ef055771-6b48-48f8-addb-70c834b5aaa5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\モード">
+      <UniqueIdentifier>{042798fa-05c2-4c0b-9bf2-2f4d3a95e7bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\UI">
+      <UniqueIdentifier>{35210699-5c84-4e48-b5f2-e9d12fce9829}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\UI">
+      <UniqueIdentifier>{ec9af9e1-10d4-498b-bcf5-20347547f0be}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="input.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="bullet.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="polygon.cpp">
+      <Filter>ソース ファイル\初期データ</Filter>
+    </ClCompile>
+    <ClCompile Include="meshfield.cpp">
+      <Filter>ソース ファイル\初期データ</Filter>
+    </ClCompile>
+    <ClCompile Include="meshfield_wall.cpp">
+      <Filter>ソース ファイル\地形 &amp; メッシュフィールド</Filter>
+    </ClCompile>
+    <ClCompile Include="floor.cpp">
+      <Filter>ソース ファイル\地形 &amp; メッシュフィールド</Filter>
+    </ClCompile>
+    <ClCompile Include="wall.cpp">
+      <Filter>ソース ファイル\地形 &amp; メッシュフィールド</Filter>
+    </ClCompile>
+    <ClCompile Include="Player_model.cpp">
+      <Filter>ソース ファイル\モデル</Filter>
+    </ClCompile>
+    <ClCompile Include="model.cpp">
+      <Filter>ソース ファイル\初期データ</Filter>
+    </ClCompile>
+    <ClCompile Include="figure_model.cpp">
+      <Filter>ソース ファイル\モデル</Filter>
+    </ClCompile>
+    <ClCompile Include="effect.cpp">
+      <Filter>ソース ファイル\演出</Filter>
+    </ClCompile>
+    <ClCompile Include="billboard.cpp">
+      <Filter>ソース ファイル\初期データ</Filter>
+    </ClCompile>
+    <ClCompile Include="shadow.cpp">
+      <Filter>ソース ファイル\演出</Filter>
+    </ClCompile>
+    <ClCompile Include="particle.cpp">
+      <Filter>ソース ファイル\演出</Filter>
+    </ClCompile>
+    <ClCompile Include="torch.cpp">
+      <Filter>ソース ファイル\演出</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy_model.cpp">
+      <Filter>ソース ファイル\モデル</Filter>
+    </ClCompile>
+    <ClCompile Include="torch_model.cpp">
+      <Filter>ソース ファイル\モデル</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>ソース ファイル\演出</Filter>
+    </ClCompile>
+    <ClCompile Include="stone_pillar.cpp">
+      <Filter>ソース ファイル\モデル</Filter>
+    </ClCompile>
+    <ClCompile Include="meshfield_floor.cpp">
+      <Filter>ソース ファイル\地形 &amp; メッシュフィールド</Filter>
+    </ClCompile>
+    <ClCompile Include="light.cpp">
+      <Filter>ソース ファイル\ライト</Filter>
+    </ClCompile>
+    <ClCompile Include="PointLight.cpp">
+      <Filter>ソース ファイル\ライト</Filter>
+    </ClCompile>
+    <ClCompile Include="fade.cpp">
+      <Filter>ソース ファイル\モード</Filter>
+    </ClCompile>
+    <ClCompile Include="game.cpp">
+      <Filter>ソース ファイル\モード</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial.cpp">
+      <Filter>ソース ファイル\モード</Filter>
+    </ClCompile>
+    <ClCompile Include="title.cpp">
+      <Filter>ソース ファイル\モード</Filter>
+    </ClCompile>
+    <ClCompile Include="result ver1.cpp">
+      <Filter>ソース ファイル\モード</Filter>
+    </ClCompile>
+    <ClCompile Include="result ver2.cpp">
+      <Filter>ソース ファイル\モード</Filter>
+    </ClCompile>
+    <ClCompile Include="score.cpp">
+      <Filter>ソース ファイル\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="text.cpp">
+      <Filter>ソース ファイル\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="time.cpp">
+      <Filter>ソース ファイル\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="damage.cpp">
+      <Filter>ソース ファイル\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Goal_effect.cpp">
+      <Filter>ソース ファイル\演出</Filter>
+    </ClCompile>
+    <ClCompile Include="jewel.cpp">
+      <Filter>ソース ファイル\モデル</Filter>
+    </ClCompile>
+    <ClCompile Include="sound.cpp">
+      <Filter>ソース ファイル\演出</Filter>
+    </ClCompile>
+    <ClCompile Include="ResultSource.cpp">
+      <Filter>ソース ファイル\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="ResultSource1.cpp">
+      <Filter>ソース ファイル\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="frame.cpp">
+      <Filter>ソース ファイル\UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="bullet.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="meshfield.h">
+      <Filter>ヘッダー ファイル\初期データ</Filter>
+    </ClInclude>
+    <ClInclude Include="meshfield_floor.h">
+      <Filter>ヘッダー ファイル\地形 &amp; メッシュフィールド</Filter>
+    </ClInclude>
+    <ClInclude Include="meshfield_wall.h">
+      <Filter>ヘッダー ファイル\地形 &amp; メッシュフィールド</Filter>
+    </ClInclude>
+    <ClInclude Include="polygon.h">
+      <Filter>ヘッダー ファイル\初期データ</Filter>
+    </ClInclude>
+    <ClInclude Include="wall.h">
+      <Filter>ヘッダー ファイル\地形 &amp; メッシュフィールド</Filter>
+    </ClInclude>
+    <ClInclude Include="floor.h">
+      <Filter>ヘッダー ファイル\地形 &amp; メッシュフィールド</Filter>
+    </ClInclude>
+    <ClInclude Include="Player_model.h">
+      <Filter>ヘッダー ファイル\モデル</Filter>
+    </ClInclude>
+    <ClInclude Include="model.h">
+      <Filter>ヘッダー ファイル\初期データ</Filter>
+    </ClInclude>
+    <ClInclude Include="figure_model.h">
+      <Filter>ヘッダー ファイル\モデル</Filter>
+    </ClInclude>
+    <ClInclude Include="shadow.h">
+      <Filter>ヘッダー ファイル\演出</Filter>
+    </ClInclude>
+    <ClInclude Include="effect.h">
+      <Filter>ヘッダー ファイル\演出</Filter>
+    </ClInclude>
+    <ClInclude Include="particle.h">
+      <Filter>ヘッダー ファイル\演出</Filter>
+    </ClInclude>
+    <ClInclude Include="torch.h">
+      <Filter>ヘッダー ファイル\演出</Filter>
+    </ClInclude>
+    <ClInclude Include="torch_model.h">
+      <Filter>ヘッダー ファイル\モデル</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy_model.h">
+      <Filter>ヘッダー ファイル\モデル</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>ヘッダー ファイル\演出</Filter>
+    </ClInclude>
+    <ClInclude Include="input.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="stone_pillar.h">
+      <Filter>ヘッダー ファイル\モデル</Filter>
+    </ClInclude>
+    <ClInclude Include="billboard.h">
+      <Filter>ヘッダー ファイル\演出</Filter>
+    </ClInclude>
+    <ClInclude Include="light.h">
+      <Filter>ヘッダー ファイル\ライト</Filter>
+    </ClInclude>
+    <ClInclude Include="PointLight.h">
+      <Filter>ヘッダー ファイル\ライト</Filter>
+    </ClInclude>
+    <ClInclude Include="fade.h">
+      <Filter>ヘッダー ファイル\モード</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>ヘッダー ファイル\モード</Filter>
+    </ClInclude>
+    <ClInclude Include="result ver1.h">
+      <Filter>ヘッダー ファイル\モード</Filter>
+    </ClInclude>
+    <ClInclude Include="result ver2.h">
+      <Filter>ヘッダー ファイル\モード</Filter>
+    </ClInclude>
+    <ClInclude Include="title.h">
+      <Filter>ヘッダー ファイル\モード</Filter>
+    </ClInclude>
+    <ClInclude Include="tutorial.h">
+      <Filter>ヘッダー ファイル\モード</Filter>
+    </ClInclude>
+    <ClInclude Include="score.h">
+      <Filter>ヘッダー ファイル\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="text.h">
+      <Filter>ヘッダー ファイル\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="time.h">
+      <Filter>ヘッダー ファイル\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="damage.h">
+      <Filter>ヘッダー ファイル\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Goal_effect.h">
+      <Filter>ヘッダー ファイル\演出</Filter>
+    </ClInclude>
+    <ClInclude Include="jewel.h">
+      <Filter>ヘッダー ファイル\モデル</Filter>
+    </ClInclude>
+    <ClInclude Include="sound.h">
+      <Filter>ヘッダー ファイル\演出</Filter>
+    </ClInclude>
+    <ClInclude Include="ResultSource.h">
+      <Filter>ヘッダー ファイル\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="ResultSource1.h">
+      <Filter>ヘッダー ファイル\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="frame.h">
+      <Filter>ヘッダー ファイル\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

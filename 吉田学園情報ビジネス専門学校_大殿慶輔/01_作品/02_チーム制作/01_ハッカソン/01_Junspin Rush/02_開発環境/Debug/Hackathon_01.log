@@ -1,0 +1,63 @@
+﻿  ui_frame_02.cpp
+  title.cpp
+  text.cpp
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\text.cpp(149): warning C4101: 'nCntTxt_00': ローカル変数は 1 度も使われていません。
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\text.cpp(150): warning C4101: 'nCntDigit': ローカル変数は 1 度も使われていません。
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\text.cpp(207): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\text.cpp(177): warning C4101: 'nPattern': ローカル変数は 1 度も使われていません。
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\text.cpp(293): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\text.cpp(275): warning C4101: 'aString': ローカル変数は 1 度も使われていません。
+  sound.cpp
+  setting.cpp
+  score.cpp
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\score.cpp(98): warning C4101: 'nCntTexUnini': ローカル変数は 1 度も使われていません。
+  result.cpp
+  ranking.cpp
+  polygon.cpp
+  player.cpp
+  physics.cpp
+  md_game_00.cpp
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\md_game_00.cpp(537): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\md_game_00.cpp(555): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\md_game_00.cpp(748): warning C4101: 'nCntEnemy': ローカル変数は 1 度も使われていません。
+  main.cpp
+  life.cpp
+  input.cpp
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\input.cpp(359): warning C4800: 'BYTE': ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\input.cpp(367): warning C4800: 'BYTE': ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\input.cpp(375): warning C4800: 'BYTE': ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\input.cpp(383): warning C4800: 'BYTE': ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\input.cpp(435): warning C4804: '~': 演算中の 'bool' 型の使用方法が安全ではありません
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\input.cpp(577): warning C4804: '~': 演算中の 'bool' 型の使用方法が安全ではありません
+  ground.cpp
+  fade.cpp
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\fade.cpp(39): warning C4101: 'vertexPos': ローカル変数は 1 度も使われていません。
+  eff_particle_00.cpp
+  eff_light_00.cpp
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\eff_light_00.cpp(212): warning C4060: switch ステートメントに 'case' または 'default' ラベルがありません。
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\eff_light_00.cpp(175): warning C4101: 'vertexPos': ローカル変数は 1 度も使われていません。
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\eff_light_00.cpp(271): warning C4101: 'pVtx': ローカル変数は 1 度も使われていません。
+  eff_general_00.cpp
+  コードを生成中...
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\physics.cpp(103): warning C4715: 'CheckHit': 値を返さないコントロール パスがあります。
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\polygon.cpp(236): warning C4715: 'AnimationCount': 値を返さないコントロール パスがあります。
+  コンパイル中...
+  combo.cpp
+  cloud.cpp
+  chunk.cpp
+  chr_enemy_00.cpp
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\chr_enemy_00.cpp(1431): warning C4477: 'fscanf' : 書式文字列 '%d' には、型 'int *' の引数が必要ですが、可変個引数 1 は型 'bool *' です
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\chr_enemy_00.cpp(1446): warning C4477: 'fscanf' : 書式文字列 '%d' には、型 'int *' の引数が必要ですが、可変個引数 1 は型 'bool *' です
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\chr_enemy_00.cpp(1644): warning C4477: 'fscanf' : 書式文字列 '%d' には、型 'int *' の引数が必要ですが、可変個引数 1 は型 'bool *' です
+  camera.cpp
+  bg_color.cpp
+  bg.cpp
+  atk_explosion_00.cpp
+  atk_bullet_00.cpp
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\atk_bullet_00.cpp(415): warning C4800: 'int': ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\atk_bullet_00.cpp(482): warning C4477: 'fscanf' : 書式文字列 '%d' には、型 'int *' の引数が必要ですが、可変個引数 1 は型 'float *' です
+c:\users\student\onedrive\デスクトップ\学校関係\ダウンロード作品\hackathon_01\atk_bullet_00.cpp(758): warning C4800: 'float': ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+  コードを生成中...
+  LINK : 前回のインクリメンタル リンクで C:\Users\student\OneDrive\デスクトップ\学校関係\ダウンロード作品\Hackathon_01\Debug\Hackathon_01.exe が見つからなかったか、ビルドされませんでした。フル リンクを行います。
+  Hackathon_01.vcxproj -> C:\Users\student\OneDrive\デスクトップ\学校関係\ダウンロード作品\Hackathon_01\Debug\Hackathon_01.exe
+  Hackathon_01.vcxproj -> C:\Users\student\OneDrive\デスクトップ\学校関係\ダウンロード作品\Hackathon_01\Debug\Hackathon_01.pdb (Full PDB)

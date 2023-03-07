@@ -1,0 +1,509 @@
+#========================================
+#
+# 敵_データ情報
+# Author: 大殿 慶輔
+#
+#=======================================#
+#4個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	2
+	POS	-120 0 880
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#5個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	2
+	POS	-120 0 830
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#6個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_C_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	2
+	POS	-120 0 930
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#7個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_D_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	3
+	POS	-120 0 780
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#8個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	3
+	POS	-120 0 980
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#9個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	3
+	POS	-120 0 730
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#10個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	3
+	POS	-120 0 1030
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#11個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	3
+	POS	-120 0 680
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#12個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	3
+	POS	-120 0 1080
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#13個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	0
+	POS	-1190 0 440
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#14個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	0
+	POS	-1140 0 440
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#15個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	0
+	POS	-1240 0 440
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#16個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	1
+	POS	-1090 0 440
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#17個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	1
+	POS	-1040 0 440
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#18個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	1
+	POS	-1290 0 440
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#19個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	1
+	POS	-1340 0 440
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#=======================================#
+#21個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	2
+	POS	-220 0 2420
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#22個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	3
+	POS	-220 0 2470
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#23個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	3
+	POS	-220 0 2370
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#=======================================#
+#24個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	2
+	POS	-220 0 2520
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#25個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	2
+	POS	-220 0 2320
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#26個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	3
+	POS	-220 0 2570
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#27個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	3
+	POS	-220 0 2270
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#28個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	0
+	POS	715 0 1760
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#29個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	1
+	POS	765 0 1760
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#30個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	1
+	POS	665 0 1760
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#31個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	0
+	POS	815 0 1760
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#32個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_A_Ornament.x
+	FIGURE_TYPE	0
+	MOVE_TYPE	0
+	POS	615 0 1760
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#33個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	1
+	MOVE_TYPE	3
+	POS	1200 0 150
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#34個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	1
+	MOVE_TYPE	3
+	POS	1150 0 100
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#35個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	1
+	MOVE_TYPE	3
+	POS	1100 0 50
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#36個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	1
+	MOVE_TYPE	3
+	POS	1050 0 0
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#37個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	1
+	MOVE_TYPE	3
+	POS	1000 0 -50
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#38個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	1
+	MOVE_TYPE	3
+	POS	950 0 -100
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#39個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	1
+	MOVE_TYPE	3
+	POS	900 0 -150
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#40個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	1
+	MOVE_TYPE	3
+	POS	1250 0 185
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#41個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	1
+	MOVE_TYPE	3
+	POS	850 0 -185
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#42個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	3
+	MOVE_TYPE	3
+	POS	1560 0 1760
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#43個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	3
+	MOVE_TYPE	3
+	POS	1560 0 1885
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#44個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	3
+	MOVE_TYPE	3
+	POS	1560 0 1635
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#45個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	2
+	MOVE_TYPE	3
+	POS	1890 0 1320
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#46個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	2
+	MOVE_TYPE	2
+	POS	1670 0 1370
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#47個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	2
+	MOVE_TYPE	2
+	POS	1670 0 1270
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#48個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	2
+	MOVE_TYPE	3
+	POS	1890 0 1420
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#49個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	2
+	MOVE_TYPE	3
+	POS	1890 0 1220
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#50個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	2
+	MOVE_TYPE	3
+	POS	1670 0 1470
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#51個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	2
+	MOVE_TYPE	3
+	POS	1670 0 1170
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#52個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	2
+	MOVE_TYPE	2
+	POS	1890 0 1490
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#53個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	2
+	MOVE_TYPE	2
+	POS	1890 0 1145
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+#54個目
+#=======================================#
+TYPE
+	MODEL_PATH	data\\MODEL\\Enemy_B_Ornament.x
+	FIGURE_TYPE	3
+	MOVE_TYPE	2
+	POS	2100 0 2525
+	ROT 0 0 0
+TYPE_END
+#=======================================#
+END
