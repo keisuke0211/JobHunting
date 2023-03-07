@@ -1,6 +1,0 @@
-﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of sound.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\Custom Aircraft\sound.cpp, sound.cpp.
-  ResultSource.cpp
-c:\users\student\onedrive\デスクトップ\作ったゲーム\action game\resultsource.cpp(123): warning C4101: 'nCntScore': ローカル変数は 1 度も使われていません。
-Debug\sound.obj : warning LNK4042: オブジェクトの指定が重複しています。余分なものは無視されます。
-  action game.vcxproj -> C:\Users\student\OneDrive\デスクトップ\作ったゲーム\action game\Debug\action game.exe
-  action game.vcxproj -> C:\Users\student\OneDrive\デスクトップ\作ったゲーム\action game\Debug\action game.pdb (Full PDB)
